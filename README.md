@@ -1,2 +1,2 @@
 # Azad-1-Website
-azadsatmanit.in website
+http://azadsatmanit.in/
